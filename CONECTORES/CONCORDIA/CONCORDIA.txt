@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "$([Environment]::GetFolderPath('MyMusic'))\conector-CONCORDIA.ps1" -Instalar
